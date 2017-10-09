@@ -1,18 +1,14 @@
+http://dev-lab.info/2013/08/шпаргалка-по-git-основные-команды-слиян/ 
+
 
 git clone https://github.com/mickeymouse2018/Java.git
 
 
-
-
-
-
-
-
-git clone https://github.com/%user_login%/%repo_name%.git
+{git clone https://github.com/%user_login%/%repo_name%.git
 
 git clone git://github.com/mickeymouse2018/Java.git
 
-mickeymouse2018@github.com/mickeymouse2018/Java.git
+mickeymouse2018@github.com/mickeymouse2018/Java.git}
 
 
 https://github.com/mickeymouse2018/Java.git
